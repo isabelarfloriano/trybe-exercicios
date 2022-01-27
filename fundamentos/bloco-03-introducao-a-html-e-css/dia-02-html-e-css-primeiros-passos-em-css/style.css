@@ -1,0 +1,18 @@
+
+body {
+    font-size: 16px;
+    font-weight: bolder;
+    line-height: 33px;
+    }
+h1 {
+    size: 65px;
+    color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    }
+.listaCores{background-color: paleturquoise;}
+.paragrafo-lista{background-color: salmon;}
+#paragrafo {font-size: 3em;}
+#Amarelo {background-color: yellow;}
+#Vermelho {background-color: red;}
+#Marrom {background-color: brown;}
